@@ -5,13 +5,6 @@
 &nbsp; <br> [![Discord Presence](https://lanyard.cnrad.dev/api/732450729301639168)](https://discord.com/users/732450729301639168)
     
   </td>
-  <td width="50%">
-    
-&nbsp; <br> [![Code Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Noki-Sou&show_icons=true&bg_color=1A1C1F&hide_border=true&text_color=fff&title_color=fff&langs_count=5&line_height=34)]()
-<br />
-
-    
-  </td>
 </table>
 
 ## Hi, My name is NokiSou (you can call me Sou/Noki)
