@@ -9,6 +9,7 @@
 
 ## Hi, My name is NokiSou (you can call me Sou/Noki)
 I'm a 16 year old developer.
+
 Mainly Experienced in: Luau (Backend) and countering Exploits / Cheats.
 
 ## Programming Languages
